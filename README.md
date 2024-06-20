@@ -1,16 +1,13 @@
-# flutter_application_calculator_app
+<h3 align="center">Calculator App</h3>
 
-A new Flutter project.
+<h4 align ='center'>Welcome to Complete Flutter Calculator App project!</h4> 
+We welcome contributions from the community to enhance the features and functionality of this login animation project. If you're interested in contributing, follow these steps:
 
-## Getting Started
+1. Fork the repository to your GitHub account.
+2. Make your desired changes and improvements to the project.
+3. Test your changes thoroughly to ensure they work as intended.
+4. Submit a pull request to the main repository, detailing the changes you've made and any relevant information.
 
-This project is a starting point for a Flutter application.
+## Credits
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project was developed by Talha Hussain ( _talhadev ).
